@@ -32,5 +32,7 @@ when you fire your weapon bullets may not go the way your default crosshair is t
 thats why the default crosshair should be turned off 
 to prevent any missunderstanding where the bullets will go.
 
+you are headless! this is used to prevent model clipping
+
 that should be it, and remember...
 have fun!!!
