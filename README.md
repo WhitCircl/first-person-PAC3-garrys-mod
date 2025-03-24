@@ -34,5 +34,9 @@ to prevent any missunderstanding where the bullets will go.
 
 you are headless! this is used to prevent model clipping
 
+there may be some issues when crouching in vents
+for example clipping through it and seeing the whole map
+altough this can be solved with the prone mod
+
 that should be it, and remember...
 have fun!!!
